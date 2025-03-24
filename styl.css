@@ -17,11 +17,6 @@ div
    text-align: center;
 }
 
-#blok3
-{
-    border: 3px;
-}
-
 header
 {
     text-align: center;
@@ -50,7 +45,7 @@ header
 h2
 {
     background-color: green;
-    color:green;
+    color:white;
 }
 
 body
